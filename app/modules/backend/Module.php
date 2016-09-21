@@ -22,7 +22,8 @@ class Multi implements ModuleDefinitionInterface
 
         $loader->registerNamespaces([
             'Webxucxich\Modules\Backend\Controllers' => __DIR__ . '/controllers/',
-            'Webxucxich\Modules\Backend\Models'      => __DIR__ . '/models/'
+            'Webxucxich\Modules\Modeldb\Models' => '../app/modules/modeldb/models/',
+            'Webxucxich\Common\Library' => '../app/common/library/'
         ]);
 
         $loader->register();

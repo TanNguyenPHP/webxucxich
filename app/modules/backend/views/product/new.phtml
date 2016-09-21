@@ -1,0 +1,168 @@
+<div class="content-wrapper">
+    <?php echo $this->getContent(); ?>
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <h1>
+            Blank page
+            <small>it all starts here</small>
+        </h1>
+        <ol class="breadcrumb">
+            <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
+            <li><a href="#">Examples</a></li>
+            <li class="active">Blank page</li>
+        </ol>
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+        <p><?php echo $this->flash->output() ?></p>
+        <!-- Default box -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box box-primary">
+                    <div class="box-header with-border">
+                        <h3 class="box-title">Thêm mới danh mục</h3>
+                    </div>
+                    <form action="/backend/product/create" method="post" id="frmproduct" name="frmproduct">
+                        <div class="box-body">
+                            <div class="form-group">
+                                <label for="exampleInputPassword1">Tên danh mục</label>
+                                <input type="text" class="form-control" id="name" name="name"
+                                       maxlength="128">
+                            </div>
+                            <div class="form-group">
+                                <label>Danh mục</label>
+                                <select class="form-control select2" style="width: 100%;" name="pid">
+                                    <?php showCategories($data) ?>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label>Textarea</label>
+                                <textarea class="form-control" rows="40" id="editor1" name="editor1"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputFile">Ảnh đại diện</label>
+                                <input type="hidden" class="form-control" id="imageavatar" name="imageavatar" value=""
+                                       maxlength="128">
+                                <img src="" id="imgAvatar">
+                                <input class="btn btn-primary" type="button" id="btnimage" value="Chọn ảnh">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputEmail1">Danh sách ảnh</label>
+                                <ul class="list-inline" id="showMoreImgs">
+                                </ul>
+                                <input type="hidden" id="moreimages" value="">
+                                <button class="btn btn-primary" type="button" id="addMoreImgs">Chọn ảnh
+                                </button>
+                                <button class="btn btn-danger" type="button" id="delImgs">Xóa ảnh
+                                </button>
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputEmail1">Title SEO</label>
+                                <input type="text" class="form-control" id="title_seo" name="title_seo" maxlength="64">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputPassword1">Description SEO</label>
+                                <input type="text" class="form-control" id="description_seo" name="description_seo"
+                                       maxlength="128">
+                            </div>
+                        </div>
+                        <!-- /.box-body -->
+                        <div class="box-footer">
+                            <a href="/backend/productcategory" class="btn btn-warning" style="width:100px">Hủy</a>
+                            <button type="submit" class="btn btn-success" style="width:100px">Lưu</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!-- /.box -->
+    </section>
+    <!-- /.content -->
+</div>
+<script src="/Assets/plugins/select2/select2.full.min.js"></script>
+<script src="/Assets/ckeditor/ckeditor.js"></script>
+<script src="/Assets/ckfinder/ckfinder.js"></script>
+<script>
+
+    $(function () {
+        var moreimgs = [];
+
+        function BrowseServer(setimg) {
+            // You can use the "CKFinder" class to render CKFinder in a page:
+            var finder = new CKFinder();
+            finder.basePath = '/img/';
+            finder.skin = 'bootstrap';
+            finder.selectActionFunction = setimg;
+            finder.popup();
+        }
+
+        function AddMoreImgs(fileUrl) {
+            var html = '<li><img src="' + fileUrl + '" width="100px"></li>';
+            $("#showMoreImgs").append(html);
+            moreimgs.push(fileUrl);
+            $("#moreimages").val(JSON.stringify(moreimgs));
+        }
+
+        function SetFileField(fileUrl) {
+            $("#imgAvatar").attr({"src": fileUrl, "width": '100px'});
+            $("#imageavatar").val(fileUrl);
+        }
+
+        $("#addMoreImgs").click(function () {
+            BrowseServer(AddMoreImgs);
+        });
+
+        $("#btnimage").click(function () {
+            BrowseServer(SetFileField);
+        });
+
+        $("#delImgs").click(function () {
+            if (moreimgs.length != 0) {
+                moreimgs.splice(moreimgs.length - 1, 1);
+                $('#showMoreImgs li:last-child').remove();
+                $("#moreimages").val(JSON.stringify(moreimgs));
+            }
+        });
+
+        $(".select2").select2();
+
+         CKEDITOR.replace('editor1');
+
+        //CKFinder.setupCKEditor( editor, '/Assets/ckfinder/' );
+        $("#frmproduct").validate({
+            rules: {
+                name: {
+                    required: true,
+                    minlength: 4
+                }
+            },
+            messages: {
+                name: {
+                    required: "Nhập tên",
+                    minlength: "Lớn hơn 4 ký tự"
+                }
+            }
+        });
+    });
+
+</script>
+<?php
+function showCategories($categories, $parent_id = 0, $char = '')
+{
+    foreach ($categories as $key => $item) {
+        // Nếu là chuyên mục con thì hiển thị
+        if ($item['pid'] == $parent_id) {
+            echo '<option value="' . $item['id'] . '">';
+            echo $char . $item['name'];
+            echo '</option>';
+
+            // Xóa chuyên mục đã lặp
+            unset($categories[$key]);
+
+            // Tiếp tục đệ quy để tìm chuyên mục con của chuyên mục đang lặp
+            showCategories($categories, $item['id'], $char . $item['name'] . ' >>>> ');
+        }
+    }
+}
+?>

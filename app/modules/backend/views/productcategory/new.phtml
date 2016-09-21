@@ -1,0 +1,105 @@
+<div class="content-wrapper">
+    <?php echo $this->getContent(); ?>
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <h1>
+            Blank page
+            <small>it all starts here</small>
+        </h1>
+        <ol class="breadcrumb">
+            <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
+            <li><a href="#">Examples</a></li>
+            <li class="active">Blank page</li>
+        </ol>
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+        <p><?php echo $this->flash->output() ?></p>
+        <!-- Default box -->
+        <div class="row">
+
+            <div class="col-md-12">
+                <div class="box box-primary">
+                    <div class="box-header with-border">
+                        <h3 class="box-title">Thêm mới danh mục</h3>
+                    </div>
+                    <form action="/backend/productcategory/create" method="post" id="frmproductcategory" name="frmproductcategory">
+                        <div class="box-body">
+                            <div class="form-group">
+                                <label for="exampleInputPassword1">Tên danh mục</label>
+                                <input type="text" class="form-control" id="name" name="name"
+                                       maxlength="128">
+                            </div>
+                            <div class="form-group">
+                                <label>Danh mục gốc</label>
+                                <select class="form-control select2" style="width: 100%;" name="pid">
+                                    <option selected="selected" value="0">Danh mục gốc</option>
+                                    <?php showCategories($data); ?>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="exampleInputEmail1">Title SEO</label>
+                                <input type="text" class="form-control" id="title_seo" name="title_seo" maxlength="64">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputPassword1">Description SEO</label>
+                                <input type="text" class="form-control" id="description_seo" name="description_seo"
+                                       maxlength="128">
+                            </div>
+                        </div>
+                        <!-- /.box-body -->
+                        <div class="box-footer">
+                            <a href="/backend/productcategory" class="btn btn-primary">Hủy</a>
+                            <button type="submit" class="btn btn-primary">Lưu</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!-- /.box -->
+    </section>
+    <!-- /.content -->
+</div>
+<script src="/Assets/plugins/select2/select2.full.min.js"></script>
+<script>
+    $(function () {
+        //Initialize Select2 Elements
+        $(".select2").select2();
+        $("#frmproductcategory").validate({
+            rules: {
+                name: {
+                    required: true,
+                    minlength: 4
+                }
+            },
+            messages: {
+                name: {
+                    required: "Nhập tên",
+                    minlength: "Lớn hơn 4 ký tự"
+                }
+            }
+        });
+    });
+</script>
+<?php
+function showCategories($categories, $parent_id = 0, $char = '')
+{
+    foreach ($categories as $key => $item) {
+        // Nếu là chuyên mục con thì hiển thị
+        if ($item['pid'] == $parent_id) {
+            echo '<option value="' . $item['id'] . '">';
+            echo $char . $item['name'];
+            echo '</option>';
+
+            // Xóa chuyên mục đã lặp
+            unset($categories[$key]);
+
+            // Tiếp tục đệ quy để tìm chuyên mục con của chuyên mục đang lặp
+            showCategories($categories, $item['id'], $char . $item['name'] . ' >>>> ');
+        }
+    }
+}
+
+?>

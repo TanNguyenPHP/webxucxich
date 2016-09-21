@@ -1,0 +1,86 @@
+<div class="content-wrapper">
+    <?php echo $this->getContent(); ?>
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <h1>
+            Blank page
+            <small>it all starts here</small>
+        </h1>
+        <ol class="breadcrumb">
+            <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
+            <li><a href="#">Examples</a></li>
+            <li class="active">Blank page</li>
+        </ol>
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="box">
+                    <div class="box-body">
+                        <div class="col-xs-12">
+                            <a href="/backend/product/new" class="btn btn-success" style="margin-right: 5px;">
+                                <i class="fa fa-credit-card"></i> Thêm mới sản phẩm
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="box-header">
+                        <div class="col-xs-4">
+                            <div class="input-group">
+                                <input type="text" class="form-control">
+                                <span class="input-group-btn">
+                                  <button type="button" class="btn btn-info btn-flat">Go!</button>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="col-xs-2">
+                            <button class="btn btn-success">Thêm mới</button>
+                        </div>
+                    </div>
+                    <div class="box-body">
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <table id="tablecategories" class="table table-bordered table-striped">
+                                    <thead>
+                                        <tr>
+                                            <th>Sản phẩm</th>
+
+                                        </tr>
+                                    </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>
+
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    <tfoot>
+                                        <tr>
+                                            <th>Sản phẩm</th>
+                                        </tr>
+                                    </tfoot>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+
+<script>
+    $(document).ready(function () {
+        $('#tablecategories').dataTable({
+            "language": {
+                "url": "dataTables.Vietnamese.lang"
+            }
+        });
+    });
+</script>

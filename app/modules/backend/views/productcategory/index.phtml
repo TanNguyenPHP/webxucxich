@@ -1,0 +1,106 @@
+<div class="content-wrapper">
+    <?php echo $this->getContent(); ?>
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <h1>
+            Blank page
+            <small>it all starts here</small>
+        </h1>
+        <ol class="breadcrumb">
+            <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
+            <li><a href="#">Examples</a></li>
+            <li class="active">Blank page</li>
+        </ol>
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="box">
+                    <div class="box-body">
+                        <div class="col-xs-12">
+                            <a href="/backend/productcategory/new" class="btn btn-success" style="margin-right: 5px;">
+                                <i class="fa fa-credit-card"></i> Thêm mới
+                            </a>
+                            <a type="button" class="btn btn-primary" style="margin-right: 5px;">
+                                <i class="fa fa-download"></i> Generate PDF
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="box-header">
+                        <div class="col-xs-4">
+                            <div class="input-group">
+                                <input type="text" class="form-control">
+                                <span class="input-group-btn">
+                                  <button type="button" class="btn btn-info btn-flat">Go!</button>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="col-xs-2">
+                            <button class="btn btn-success" >Thêm mới</button>
+                        </div>
+                    </div>
+                    <div class="box-body">
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <table id="tablecategories" class="table table-bordered table-striped">
+                                    <thead>
+                                    <tr>
+                                        <th>Tên danh mục</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    <?php showCategories($data); ?>
+                                    </tbody>
+                                    <tfoot>
+                                    <tr>
+                                        <th>Tên danh mục</th>
+                                    </tr>
+                                    </tfoot>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+<?php
+function showCategories($categories, $parent_id = 0, $char = '')
+{
+    foreach ($categories as $key => $item) {
+        // Nếu là chuyên mục con thì hiển thị
+        if ($item['pid'] == $parent_id) {
+            echo '<tr>';
+            echo '<td>';
+            echo $char . $item['name'];
+            echo '</td>';
+            echo '</tr>';
+
+            // Xóa chuyên mục đã lặp
+            unset($categories[$key]);
+
+            // Tiếp tục đệ quy để tìm chuyên mục con của chuyên mục đang lặp
+            showCategories($categories, $item['id'], $char . $item['name'] . ' >>>> ');
+        }
+    }
+}
+
+?>
+
+
+<script>
+    $(document).ready(function () {
+        $('#tablecategories').dataTable({
+            "language": {
+                "url": "dataTables.Vietnamese.lang"
+            }
+        });
+    });
+</script>
