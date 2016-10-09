@@ -1,0 +1,62 @@
+<div class="col-md-3 col-md-pull-9 col-sm-4 col-sm-pull-8 blog-sidebar">
+    <div class="information-blocks categories-border-wrapper">
+        <div class="block-title size-3">Tất cả danh mục</div>
+        <div class="accordeon">
+            <?php foreach($datamain['categories'] as $key => $item ): ?>
+                <?php if ($item['pid']== 0):?>
+                    <div class="accordeon-title"><?php echo $item['name']?></div>
+                    <div class="accordeon-entry">
+                        <div class="article-container style-1">
+                            <ul>
+                                <?php showCategoriesShop($datamain['categories'],$item['id'])?>
+                            </ul>
+                        </div>
+                    </div>
+                <?php endif;?>
+            <?php endforeach;?>
+
+        </div>
+    </div>
+
+    <div class="information-blocks">
+        <div class="block-title size-2">Sort by sizes</div>
+        <div class="range-wrapper">
+            <div id="prices-range"></div>
+            <div class="range-price">
+                Price:
+                <div class="min-price"><b>&pound;<span>0</span></b></div>
+                <b>-</b>
+                <div class="max-price"><b>&pound;<span>200</span></b></div>
+            </div>
+            <a class="button style-14">filter</a>
+        </div>
+    </div>
+
+    <div class="information-blocks">
+        <div class="block-title size-2">Sort by sizes</div>
+        <div class="size-selector">
+            <div class="entry active">0.5</div>
+            <div class="entry">1</div>
+            <div class="entry">2</div>
+            <div class="entry">3</div>
+            <div class="entry">4</div>
+            <div class="spacer"></div>
+        </div>
+    </div>
+</div>
+
+<?php
+function showCategoriesShop($categories, $parent_id = 0, $char = '')
+{
+    foreach ($categories as $key => $item) {
+        // Nếu là chuyên mục con thì hiển thị
+        if ($item['pid'] == $parent_id) {
+            echo '<li>'.$char.'<a href="#">' . $item['name'] . '</a></li>';
+            // Xóa chuyên mục đã lặp
+            unset($categories[$key]);
+            // Tiếp tục đệ quy để tìm chuyên mục con của chuyên mục đang lặp
+            showCategoriesShop($categories, $item['id'], $char . '&nbsp;&nbsp;&nbsp;&nbsp;');
+        }
+    }
+}
+?>

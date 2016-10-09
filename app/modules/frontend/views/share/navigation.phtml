@@ -1,0 +1,59 @@
+<div class="navigation">
+    <div class="navigation-header responsive-menu-toggle-class">
+        <div class="title">Navigation</div>
+        <div class="close-menu"></div>
+    </div>
+    <div class="nav-overflow">
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+
+                <li class="simple-list">
+                    <a href="shop.html">Products</a><i class="fa fa-chevron-down"></i>
+                    <div class="submenu">
+                        <ul class="simple-menu-list-column">
+                            <?php showCategories($datamain['categories']);?>
+                        </ul>
+                    </div>
+                </li>
+
+                <li class="fixed-header-visible">
+                    <a class="fixed-header-square-button open-cart-popup"><i class="fa fa-shopping-cart"></i></a>
+                    <a class="fixed-header-square-button open-search-popup"><i class="fa fa-search"></i></a>
+                </li>
+            </ul>
+
+            <div class="clear"></div>
+
+            <a class="fixed-header-visible additional-header-logo"><img src="/img/theme/logo-2.png" alt=""/></a>
+        </nav>
+        <div class="navigation-footer responsive-menu-toggle-class">
+            <div class="socials-box">
+                <a href="#"><i class="fa fa-facebook"></i></a>
+                <a href="#"><i class="fa fa-twitter"></i></a>
+                <a href="#"><i class="fa fa-google-plus"></i></a>
+                <a href="#"><i class="fa fa-youtube"></i></a>
+                <a href="#"><i class="fa fa-linkedin"></i></a>
+                <a href="#"><i class="fa fa-instagram"></i></a>
+                <a href="#"><i class="fa fa-pinterest-p"></i></a>
+                <div class="clear"></div>
+            </div>
+            <div class="navigation-copyright">Created by <a href="#">8theme</a>. All rights reserved</div>
+        </div>
+    </div>
+</div>
+<?php
+function showCategories($categories, $parent_id = 0, $char = '')
+{
+    foreach ($categories as $key => $item) {
+        // Nếu là chuyên mục con thì hiển thị
+        if ($item['pid'] == $parent_id) {
+            echo '<li><a href="#">' . $char . '<i class="fa fa-angle-right"></i>' . $item['name']. '</a></li>';
+            // Xóa chuyên mục đã lặp
+            unset($categories[$key]);
+            // Tiếp tục đệ quy để tìm chuyên mục con của chuyên mục đang lặp
+            showCategories($categories, $item['id'], $char . '&nbsp;&nbsp;&nbsp;&nbsp;');
+        }
+    }
+}
+?>

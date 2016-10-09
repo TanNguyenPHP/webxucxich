@@ -180,6 +180,31 @@ class Product extends \Phalcon\Mvc\Model
         return parent::find($parameters);
     }
 
+    public static function findAll($keyword = '', $is_show = null, $id_product_category = "")
+    {
+        $queryBuilder = new \Phalcon\Mvc\Model\Query\Builder(self::buildparams($keyword, $is_show, $id_product_category));
+
+        return $queryBuilder->getQuery()->execute();
+    }
+
+    private static function buildparams($keyword = '', $is_show = null, $id_product_category = "", $slug = "")
+    {
+        $conditions = 'is_del = false';
+        if ($keyword != '')
+            $conditions = $conditions . " and name like '%$keyword%'";
+        if ($is_show != null)
+            $conditions = $conditions . " and is_show = '$is_show'";
+        if ($id_product_category != '')
+            $conditions = $conditions . " and id_product_category = '$id_product_category'";
+        if ($slug != '')
+            $conditions = $conditions . " and slug = '$slug'";
+        return $params = array(
+            'models' => array('Webxucxich\Modules\Modeldb\Models\Product'),
+            'conditions' => $conditions,
+            'order' => 'name'
+        );
+    }
+
     /**
      * Allows to query the first record that match the specified conditions
      *
