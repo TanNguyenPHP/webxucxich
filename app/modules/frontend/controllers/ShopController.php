@@ -31,7 +31,7 @@ class ShopController extends ControllerBase
         if (isset($id))
             $id_category = ProductCategory::findFirst("slug = '$id'")->id;
 
-        $data = array("products" => Product::findAllPaging("", null, $id_category, $page, $limitproduct),
+        $data = array("products" => Product::findAllPaging("", "1", $id_category, $page, $limitproduct),
             "page" => $page,
             "limitproduct" => $limitproduct,
             "slug" => $id);

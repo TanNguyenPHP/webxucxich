@@ -1,6 +1,11 @@
+<?php
+use Webxucxich\Common\ParamsConst\ParamSEO as params;
+?>
 <!DOCTYPE html>
 <html>
 <head>
+    <?php echo $this->tag->getTitle(); ?>
+    <meta name="description" content="<?php echo params::$meta_description ?>">
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -12,7 +17,7 @@
     <link href="/css/client/style.css" rel="stylesheet" type="text/css" />
 
     <link rel="shortcut icon" href="/img/theme/favicon-1.ico" />
-    <title>Mango - Food</title>
+
 </head>
 <body class="style-1" style="background-image: url(/img/theme/background-food.jpg);">
 

@@ -138,6 +138,56 @@ class ProductController extends ControllerBase
         return $this->response->redirect('/backend/product/index');
     }
 
+    public function changenewAction()
+    {
+        $id = $this->request->getPost("id");
+        $product = Product::findFirstByid($id);
+        if ($product->is_new == '0')
+            $product->is_new = '1';
+        else
+            $product->is_new = '0';
+        try {
+
+            if (!$product->save()) {
+                foreach ($product->getMessages() as $message) {
+                    $this->flash->error($message);
+                }
+                return $this::sendText('Lỗi');
+            }
+        } catch (Exception $e) {
+            return $this::sendText('Lỗi');
+        }
+        //$data = "btn btn-sm btn-success changenew";
+        //if ($product->is_new == '0')
+            //$data = 'btn btn-sm btn-danger changenew';
+
+
+        return $this::sendText($product->is_new);
+    }
+
+    public function changeshowAction()
+    {
+        $id = $this->request->getPost("id");
+        $product = Product::findFirstByid($id);
+        if ($product->is_show == '0')
+            $product->is_show = '1';
+        else
+            $product->is_show = '0';
+        try {
+
+            if (!$product->save()) {
+                foreach ($product->getMessages() as $message) {
+                    $this->flash->error($message);
+                }
+                return $this::sendText('Lỗi');
+            }
+        } catch (Exception $e) {
+            return $this::sendText('Lỗi');
+        }
+
+        return $this::sendText($product->is_show);
+    }
+
     private function createdatafake()
     {
         require_once APP_PATH . '/faker/autoload.php';

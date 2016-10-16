@@ -91,6 +91,8 @@
                                     <tr>
                                         <th>Sản phẩm</th>
                                         <th>Giá</th>
+                                        <th>Hiển thị</th>
+                                        <th>Trang chủ</th>
                                         <th>Sản phẩm Hot</th>
                                         <th>Sản phẩm Mới</th>
                                         <th>Ngày</th>
@@ -106,12 +108,20 @@
                                                 <?php echo $item->price?>
                                             </td>
                                             <td>
-                                                <span
-                                                    class="label label-<?php echo $item->is_hot == '1' ? 'success' : 'danger' ?>"><?php echo $item->is_hot == '1' ? 'ON' : 'OFF' ?></span>
+                                                <button type="button" data-id="<?php echo $item->id?>"
+                                                        class="btn btn-sm btn-<?php echo $item->is_show == '1' ? 'success' : 'danger' ?> changeshow"><?php echo $item->is_show == '1' ? 'ON' : 'OFF' ?></button>
                                             </td>
                                             <td>
-                                                <span
-                                                    class="label label-<?php echo $item->is_new == '1' ? 'success' : 'danger' ?>"><?php echo $item->is_new == '1' ? 'ON' : 'OFF' ?></span>
+                                                <button type="button"
+                                                        class="btn btn-sm btn-<?php echo $item->is_home == '1' ? 'success' : 'danger' ?> "><?php echo $item->is_home == '1' ? 'ON' : 'OFF' ?></button>
+                                            </td>
+                                            <td>
+                                                <button type="button"
+                                                    class="btn btn-sm btn-<?php echo $item->is_hot == '1' ? 'success' : 'danger' ?> "><?php echo $item->is_hot == '1' ? 'ON' : 'OFF' ?></button>
+                                            </td>
+                                            <td>
+                                                <button type="button" data-id="<?php echo $item->id?>"
+                                                    class="btn btn-sm btn-<?php echo $item->is_new == '1' ? 'success' : 'danger' ?> changenew"><?php echo $item->is_new == '1' ? 'ON' : 'OFF' ?></button>
                                             </td>
                                             <td>
                                                 <?php echo date("d-m-Y", strtotime($item->createddate)); ?>
@@ -136,6 +146,7 @@
 
 <script src="/Assets/plugins/jquery.price_format.2.0.min.js"></script>
 <script>
+    var is_loading = false;
     $(document).ready(function () {
         $('#tableproduct').dataTable({
             "language": {
@@ -146,6 +157,51 @@
             prefix: '', limit: 10, centsLimit: 0,
             thousandsSeparator: ','
         });
+
+        $('.changenew').off('click').on('click', function (e) {
+            e.preventDefault();
+            var link = $(this);
+            var id = link.data('id');
+            if (is_loading == false) {
+                is_loading = true;
+                $.ajax({
+                    url: '/backend/product/changenew',
+                    type: 'POST',
+                    data: {id: id},
+                    dataType: 'text',
+                    success: function (result) {
+                        if(result == '1')
+                        {link.attr("class", "btn btn-sm btn-success changenew"); link.html('ON'); }
+                        else
+                        {link.attr("class", "btn btn-sm btn-danger changenew"); link.html('OFF');}
+                        is_loading = false;
+                    }
+                });
+            }
+        });
+
+        $('.changeshow').off('click').on('click', function (e) {
+            e.preventDefault();
+            var link = $(this);
+            var id = link.data('id');
+            if (is_loading == false) {
+                is_loading = true;
+                $.ajax({
+                    url: '/backend/product/changeshow',
+                    type: 'POST',
+                    data: {id: id},
+                    dataType: 'text',
+                    success: function (result) {
+                        if(result == '1')
+                        {link.attr("class", "btn btn-sm btn-success changeshow"); link.html('ON'); }
+                        else
+                        {link.attr("class", "btn btn-sm btn-danger changeshow"); link.html('OFF');}
+                        is_loading = false;
+                    }
+                });
+            }
+        });
+
     });
 </script>
 

@@ -63,12 +63,13 @@
             <div class="row shop-grid grid-view">
                 <?php foreach ($data['products']->items as $item): ?>
                     <div class="col-md-3 col-sm-4 shop-grid-item">
-                        <div class="product-slide-entry shift-image">
+                        <div class="product-slide-entry">
                             <a href="#">
                                 <div class="product-image">
-                                    <img src="/img/theme/product-minimal-1.jpg" alt=""/>
-                                    <img src="/img/theme/product-minimal-11.jpg" alt=""/>
-                                    <div class="product-image-label type-2"><span>new</span></div>
+                                    <img src="<?php echo $item->image?>" alt=""/>
+                                    <?php if($item->is_new == '1')
+                                        echo '<div class="product-image-label type-2"><span>new</span></div>';
+                                    ?>
                                     <div class="bottom-line">
                                         <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>Thêm vào giỏ
                                             hàng</a>
