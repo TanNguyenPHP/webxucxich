@@ -190,6 +190,7 @@
 <script src="/js/client/jquery.jscrollpane.min.js"></script>
 <!-- range slider -->
 <script src="/js/client/jquery-ui.min.js"></script>
+<script src="/Assets/plugins/jquery.price_format.2.0.min.js"></script>
 <script>
     $(document).ready(function(){
         var minVal = parseInt($('.min-price span').text());
@@ -204,6 +205,10 @@
                 $('.min-price span').text(ui.values[ 0 ]);
                 $('.max-price span').text(ui.values[ 1 ]);
             }
+        });
+        $('.product-price').priceFormat({
+            prefix: '', limit: 10, centsLimit: 0,
+            thousandsSeparator: ',',suffix : ' đ'
         });
     });
 </script>

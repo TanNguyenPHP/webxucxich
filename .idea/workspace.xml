@@ -2,596 +2,436 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3001f4b-7278-404f-8583-c375330cd6ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/about-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/about-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/about-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/about-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/about-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/background-food.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/background-furniture.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/background-toys.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/background-wine.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/bags-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/bags-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/bags-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/bags-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/blog-thumbnail-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/blog-thumbnail-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/blog-thumbnail-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/blog-thumbnail-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/blog-thumbnail-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/blog-thumbnail-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/blog-thumbnail-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/blog-thumbnail-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/blog-thumbnail-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/blog-thumbnail-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/blog-thumbnail-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/blog-thumbnail-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/breadcrumbs-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/breadcrumbs-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/breadcrumbs-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/client-logo-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/client-logo-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/client-logo-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/client-logo-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/client-logo-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/client-logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/comment-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/comment-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/company-info-thumbnail.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/demo-categories-bg-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/demo-categories-bg-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/demo-categories-bg-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/drag.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/drag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/everything-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/everything-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/everything-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/favicon-1.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/favicon-10.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/favicon-11.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/favicon-12.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/favicon-2.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/favicon-3.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/favicon-4.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/favicon-5.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/favicon-6.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/favicon-7.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/favicon-8.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/favicon-9.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/flag-lang-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/flag-lang-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/flag-lang-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/from-the-blog-thumbnail.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/fullwidth-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/fullwidth-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/fullwidth-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/fullwidth-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/fullwidth-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/furniture-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/furniture-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/furniture-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/furniture-widget-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/image-text-widget-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/image-text-widget-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/jewellery-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/jewellery-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/jewellery-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/kids-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/kids-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/kids-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/kids.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/leftsidebar-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/leftsidebar-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/leftsidebar-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/leftsidebar-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/leftsidebar-13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/leftsidebar-14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/leftsidebar-15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/leftsidebar-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/leftsidebar-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/leftsidebar-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/leftsidebar-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/leftsidebar-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/leftsidebar-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/leftsidebar-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/leftsidebar-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/logo-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/marker.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/marker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/mini-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/mini-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/mini-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/mini-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/minimal-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/minimal-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/mozaic-banner-1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/mozaic-banner-1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/mozaic-banner-1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/mozaic-banner-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/mozaic-banner-2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/mozaic-banner-2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/mozaic-banner-2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/mozaic-banner-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/mozaic-banner-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/mozaic-banner-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/mozaic-banner-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/mozaic-banner-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/mozaic-banner-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/parallax-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/parallax-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/parallax-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/parallax-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/payment-method-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/payment-method-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/payment-method-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/payment-method-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/payment-method-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/payment-method-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/payment-method-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/payment-method-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/payment-method-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/payment-method-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/payment-method-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/payment-method-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/popup-bg-image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/portfolio-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/portfolio-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/portfolio-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/portfolio-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/portfolio-13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/portfolio-14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/portfolio-15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/portfolio-16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/portfolio-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/portfolio-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/portfolio-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/portfolio-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/portfolio-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/portfolio-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/portfolio-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/portfolio-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/presentation-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/presentation-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/presentation-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-bag-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-bag-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-bag-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-bag-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-electronics-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-electronics-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-electronics-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-electronics-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-everything-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-everything-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-everything-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-everything-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-everything-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-everything-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-everything-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-everything-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-everything-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-everything-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-food-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-food-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-food-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-food-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-food-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-food-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-food-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-food-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-food-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-fullwidth-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-fullwidth-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-fullwidth-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-fullwidth-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-fullwidth-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-fullwidth-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-fullwidth-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-fullwidth-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-fullwidth-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-fullwidth-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-furniture-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-furniture-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-furniture-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-furniture-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-furniture-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-furniture-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-furniture-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-furniture-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-34.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-36.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-39.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-40.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-41.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-42.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-43.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-44.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-45.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-46.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-47.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-image-inline.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-jewellery-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-jewellery-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-jewellery-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-jewellery-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-jewellery-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-jewellery-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-main-1-zoom.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-main-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-main-2-zoom.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-main-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-main-3-zoom.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-main-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-main-4-zoom.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-main-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-menu-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-menu-1_.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-menu-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-menu-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-menu-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-menu-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-menu-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-menu-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-menu-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-minimal-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-minimal-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-minimal-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-minimal-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-minimal-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-minimal-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-minimal-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-minimal-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-minimal-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-minimal-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-minimal-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-minimal-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-promo-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-promo-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-promo-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-promo-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-promo-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-promo-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-promo-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-promo-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-promo-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-toys-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-toys-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-toys-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-toys-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-underwear-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-underwear-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-underwear-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-underwear-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-underwear-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-underwear-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-underwear-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-underwear-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-wine-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-wine-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-wine-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/product-wine-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/production-logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/production-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/project-default.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/project-fullwidth.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/search-angle.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/search-angle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/shipping-icon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/shipping-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/sidebar-logo-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/sidebar-logo-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/sidebar-logo-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/sidebar-logo-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/sidebar-logo-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/sidebar-logo-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/sidebar-logo-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/sidebar-logo-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/special-item-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/special-item-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/special-item-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/square-parallax-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/square-parallax-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/square-parallax-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/teaser-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/teaser-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/text-widget-image-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/text-widget-image-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/text-widget-image-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/text-widget-image-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/text-widget-image-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/text-widget-image-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/transparent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/underwear-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/underwear-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/underwear-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/underwear-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/underwear-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wide-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wide-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wide-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wide-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wide-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wide-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wide-product-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wide-product-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wide-product-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wide-product-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wide-product-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wide-product-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wide-product-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wide-product-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wide-product-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wide-product-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wine-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wine-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wine-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wine-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wine-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wine-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wine-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/theme/wine-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/common/ParamsConst/Params.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/modules/backend/views/product/edit.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/modules/frontend/controllers/ShopController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/modules/frontend/views/share/cart.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/modules/frontend/views/share/category.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/modules/frontend/views/share/navigation.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/modules/frontend/views/share/search-box.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/modules/frontend/views/shop/detail.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/Assets/plugins/jquery.price_format.2.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/client/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/client/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/client/idangerous.swiper.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/client/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/client/idangerous.swiper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/client/isotope.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/client/jquery-2.1.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/client/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/client/jquery.jscrollpane.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/client/jquery.mousewheel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/client/map.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/modules/frontend/views/share/banner.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/modules/frontend/views/share/banner_detail.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/modules/frontend/views/share/product_category.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/client/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/client/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/client/flexslider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/client/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/27.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/32.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/35.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/44.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/46.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/47.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/49.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/51.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/53.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/54.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/56.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/58.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/59.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/61.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/62.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/63.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/65.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/66.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/67.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/68.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/69.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/71.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/73.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/74.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/75.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/76.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/card.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/cart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/img-sp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/offer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/star.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/star1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/tag.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/client/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/client/counterup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/client/easing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/client/jquery-1.11.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/client/jquery.flexslider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/client/jquery.wmuSlider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/client/minicart.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/client/move-top.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/client/okzoom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/client/waypoints.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/public/css/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Calculator/Iban.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Calculator/Luhn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/DefaultGenerator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Documentor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Factory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Generator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Guesser/Name.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/CakePHP/ColumnTypeGuesser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/CakePHP/EntityPopulator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/CakePHP/Populator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/Doctrine/ColumnTypeGuesser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/Doctrine/EntityPopulator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/Doctrine/Populator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/Mandango/ColumnTypeGuesser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/Mandango/EntityPopulator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/Mandango/Populator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/Propel/ColumnTypeGuesser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/Propel/EntityPopulator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/Propel/Populator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/Propel2/ColumnTypeGuesser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/Propel2/EntityPopulator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/Propel2/Populator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/Spot/ColumnTypeGuesser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/Spot/EntityPopulator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ORM/Spot/Populator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/Barcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/Base.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/Biased.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/DateTime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/HtmlLorem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/Lorem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/Miscellaneous.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/UserAgent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/Uuid.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ar_JO/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ar_JO/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ar_JO/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ar_JO/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ar_JO/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ar_SA/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ar_SA/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ar_SA/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ar_SA/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ar_SA/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ar_SA/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/at_AT/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/bg_BG/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/bg_BG/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/bg_BG/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/bg_BG/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/bn_BD/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/bn_BD/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/bn_BD/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/bn_BD/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/bn_BD/Utils.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/cs_CZ/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/cs_CZ/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/cs_CZ/DateTime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/cs_CZ/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/cs_CZ/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/cs_CZ/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/cs_CZ/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/cs_CZ/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/da_DK/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/da_DK/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/da_DK/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/da_DK/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/da_DK/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/da_DK/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_AT/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_AT/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_AT/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_AT/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_AT/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_AT/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_AT/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_CH/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_CH/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_CH/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_CH/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_CH/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_CH/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_CH/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_DE/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_DE/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_DE/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_DE/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_DE/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_DE/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/de_DE/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/el_GR/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/el_GR/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/el_GR/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/el_GR/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/el_GR/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/el_GR/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_AU/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_AU/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_AU/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_CA/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_CA/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_GB/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_GB/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_GB/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_GB/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_GB/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_IN/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_IN/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_IN/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_IN/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_NZ/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_NZ/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_NZ/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_PH/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_PH/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_SG/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_SG/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_UG/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_UG/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_UG/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_UG/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_US/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_US/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_US/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_US/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_US/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_US/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_ZA/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_ZA/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_ZA/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_ZA/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/en_ZA/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_AR/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_AR/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_AR/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_AR/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_ES/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_ES/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_ES/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_ES/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_ES/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_ES/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_PE/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_PE/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_PE/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_PE/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_VE/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_VE/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_VE/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_VE/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/es_VE/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fa_IR/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fa_IR/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fa_IR/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fa_IR/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fi_FI/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fi_FI/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fi_FI/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fi_FI/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fi_FI/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fi_FI/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_BE/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_BE/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_BE/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_BE/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_BE/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_BE/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_CA/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_CA/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_CH/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_CH/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_CH/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_CH/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_CH/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_CH/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_CH/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_FR/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_FR/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_FR/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_FR/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_FR/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_FR/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/fr_FR/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/he_IL/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/he_IL/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/he_IL/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/he_IL/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/he_IL/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/hr_HR/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/hr_HR/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/hr_HR/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/hr_HR/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/hr_HR/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/hu_HU/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/hu_HU/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/hu_HU/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/hu_HU/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/hu_HU/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/hu_HU/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/hy_AM/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/hy_AM/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/hy_AM/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/hy_AM/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/hy_AM/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/hy_AM/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/id_ID/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/id_ID/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/id_ID/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/id_ID/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/id_ID/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/is_IS/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/is_IS/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/is_IS/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/is_IS/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/is_IS/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/is_IS/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/it_CH/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/it_CH/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/it_CH/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/it_CH/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/it_CH/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/it_CH/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/it_CH/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/it_IT/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/it_IT/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/it_IT/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/it_IT/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/it_IT/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/it_IT/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/it_IT/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ja_JP/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ja_JP/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ja_JP/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ja_JP/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ja_JP/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ja_JP/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ka_GE/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ka_GE/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ka_GE/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ka_GE/DateTime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ka_GE/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ka_GE/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ka_GE/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ka_GE/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ka_GE/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/kk_KZ/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/kk_KZ/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/kk_KZ/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/kk_KZ/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/kk_KZ/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/kk_KZ/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/kk_KZ/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/kk_KZ/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ko_KR/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ko_KR/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ko_KR/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ko_KR/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ko_KR/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ko_KR/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/lt_LT/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/lt_LT/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/lt_LT/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/lt_LT/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/lt_LT/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/lt_LT/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/lv_LV/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/lv_LV/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/lv_LV/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/lv_LV/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/lv_LV/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/lv_LV/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/me_ME/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/me_ME/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/me_ME/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/me_ME/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/me_ME/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/mn_MN/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/mn_MN/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nb_NO/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nb_NO/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nb_NO/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nb_NO/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nb_NO/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ne_NP/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ne_NP/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ne_NP/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ne_NP/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ng_NG/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ng_NG/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ng_NG/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ng_NG/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nl_BE/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nl_BE/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nl_BE/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nl_BE/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nl_BE/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nl_BE/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nl_NL/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nl_NL/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nl_NL/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nl_NL/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nl_NL/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nl_NL/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nl_NL/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/nl_NL/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pl_PL/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pl_PL/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pl_PL/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pl_PL/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pl_PL/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pl_PL/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pl_PL/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pt_BR/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pt_BR/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pt_BR/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pt_BR/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pt_BR/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pt_BR/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pt_BR/check_digit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pt_PT/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pt_PT/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pt_PT/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/pt_PT/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ro_MD/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ro_MD/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ro_MD/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ro_MD/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ro_RO/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ro_RO/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ro_RO/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ro_RO/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ro_RO/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ru_RU/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ru_RU/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ru_RU/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ru_RU/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ru_RU/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ru_RU/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ru_RU/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/ru_RU/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sk_SK/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sk_SK/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sk_SK/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sk_SK/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sk_SK/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sk_SK/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sl_SI/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sl_SI/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sl_SI/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sl_SI/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sl_SI/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sr_Cyrl_RS/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sr_Cyrl_RS/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sr_Cyrl_RS/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sr_Latn_RS/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sr_Latn_RS/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sr_Latn_RS/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sr_RS/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sr_RS/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sr_RS/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sv_SE/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sv_SE/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sv_SE/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sv_SE/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/sv_SE/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/tr_TR/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/tr_TR/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/tr_TR/DateTime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/tr_TR/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/tr_TR/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/tr_TR/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/tr_TR/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/uk_UA/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/uk_UA/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/uk_UA/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/uk_UA/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/uk_UA/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/uk_UA/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/uk_UA/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/vi_VN/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/vi_VN/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/vi_VN/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/vi_VN/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/vi_VN/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/zh_CN/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/zh_CN/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/zh_CN/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/zh_CN/DateTime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/zh_CN/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/zh_CN/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/zh_CN/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/zh_CN/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/zh_TW/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/zh_TW/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/zh_TW/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/zh_TW/DateTime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/zh_TW/Internet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/zh_TW/Payment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/zh_TW/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/zh_TW/PhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/Provider/zh_TW/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/UniqueGenerator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/Faker/ValidGenerator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/faker/autoload.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/backend/Module.php" afterPath="$PROJECT_DIR$/app/modules/backend/Module.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/bootstrap_web.php" afterPath="$PROJECT_DIR$/app/bootstrap_web.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/common/ParamsConst/Params.php" afterPath="$PROJECT_DIR$/app/common/ParamsConst/Params.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/services_web.php" afterPath="$PROJECT_DIR$/app/config/services_web.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/backend/controllers/ProductCategoryController.php" afterPath="$PROJECT_DIR$/app/modules/backend/controllers/ProductCategoryController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/backend/controllers/ProductController.php" afterPath="$PROJECT_DIR$/app/modules/backend/controllers/ProductController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/backend/views/index.phtml" afterPath="$PROJECT_DIR$/app/modules/backend/views/index.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/backend/views/product/edit.phtml" afterPath="$PROJECT_DIR$/app/modules/backend/views/product/edit.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/backend/views/product/index.phtml" afterPath="$PROJECT_DIR$/app/modules/backend/views/product/index.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/backend/views/product/new.phtml" afterPath="$PROJECT_DIR$/app/modules/backend/views/product/new.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/backend/views/share/main-header.phtml" afterPath="$PROJECT_DIR$/app/modules/backend/views/share/main-header.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/backend/views/share/main-sidebar.phtml" afterPath="$PROJECT_DIR$/app/modules/backend/views/share/main-sidebar.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/frontend/Module.php" afterPath="$PROJECT_DIR$/app/modules/frontend/Module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/frontend/controllers/ControllerBase.php" afterPath="$PROJECT_DIR$/app/modules/frontend/controllers/ControllerBase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/frontend/controllers/ShopController.php" afterPath="$PROJECT_DIR$/app/modules/frontend/controllers/ShopController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/frontend/views/index.phtml" afterPath="$PROJECT_DIR$/app/modules/frontend/views/index.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/frontend/views/index/index.phtml" afterPath="$PROJECT_DIR$/app/modules/frontend/views/index/index.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/frontend/views/share/footer.phtml" afterPath="$PROJECT_DIR$/app/modules/frontend/views/share/footer.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/frontend/views/share/category.phtml" afterPath="$PROJECT_DIR$/app/modules/frontend/views/share/category.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/frontend/views/share/header.phtml" afterPath="$PROJECT_DIR$/app/modules/frontend/views/share/header.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/frontend/views/share/navigation.phtml" afterPath="$PROJECT_DIR$/app/modules/frontend/views/share/navigation.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/frontend/views/shop/index.phtml" afterPath="$PROJECT_DIR$/app/modules/frontend/views/shop/index.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/modeldb/models/Product.php" afterPath="$PROJECT_DIR$/app/modules/modeldb/models/Product.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/client/style.css" afterPath="$PROJECT_DIR$/public/css/client/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/public/css/fonts/fontawesome-webfont.svg" />
     </list>
     <ignored path="webxucxich.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -612,7 +452,60 @@
     <favorites_list name="webxucxich" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/modules/modeldb/models/Product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="190" column="27" selection-start-line="190" selection-start-column="27" selection-end-line="190" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.phtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/shop/index.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2986111">
+              <caret line="62" column="49" selection-start-line="62" selection-start-column="49" selection-end-line="62" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="category.phtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/share/category.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShopController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/modules/frontend/controllers/ShopController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="e#141#187#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navigation.phtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/share/navigation.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="50" column="51" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -627,14 +520,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/modules/frontend/views/share/banner.phtml" />
         <option value="$PROJECT_DIR$/app/modules/frontend/views/share/banner_detail.phtml" />
         <option value="$PROJECT_DIR$/app/modules/backend/controllers/ControllerBase.php" />
         <option value="$PROJECT_DIR$/app/modules/backend/config/config.php" />
         <option value="$PROJECT_DIR$/app/config/config.php" />
         <option value="$PROJECT_DIR$/app/modules/backend/controllers/TestController.php" />
         <option value="$PROJECT_DIR$/app/config/routes.php" />
-        <option value="$PROJECT_DIR$/app/bootstrap_web.php" />
         <option value="$PROJECT_DIR$/app/config/loader.php" />
         <option value="$PROJECT_DIR$/app/modules/backend/views/shared/main-header.phtml" />
         <option value="$PROJECT_DIR$/app/modules/backend/views/shared/main-sidebar.phtml" />
@@ -649,34 +540,36 @@
         <option value="$PROJECT_DIR$/app/modules/modeldb/models/ProductTag.php" />
         <option value="$PROJECT_DIR$/app/modules/modeldb/models/Tag.php" />
         <option value="$PROJECT_DIR$/app/modules/backend/views/productcategory/index.phtml" />
-        <option value="$PROJECT_DIR$/app/modules/backend/controllers/ProductCategoryController.php" />
         <option value="$PROJECT_DIR$/app/modules/backend/views/productcategory/new.phtml" />
         <option value="$PROJECT_DIR$/public/Assets/ckeditor/config.js" />
         <option value="$PROJECT_DIR$/public/Assets/ckfinder/config.js" />
         <option value="$PROJECT_DIR$/public/Assets/ckfinder/config.php" />
         <option value="$PROJECT_DIR$/app/modules/backend/views/share/main-sidebar.phtml" />
-        <option value="$PROJECT_DIR$/app/modules/backend/views/product/index.phtml" />
-        <option value="$PROJECT_DIR$/app/modules/modeldb/models/Product.php" />
-        <option value="$PROJECT_DIR$/app/modules/backend/views/product/edit.phtml" />
-        <option value="$PROJECT_DIR$/app/modules/backend/controllers/ProductController.php" />
-        <option value="$PROJECT_DIR$/app/common/ParamsConst/Params.php" />
-        <option value="$PROJECT_DIR$/app/modules/backend/Module.php" />
         <option value="$PROJECT_DIR$/app/modules/backend/views/index.phtml" />
         <option value="$PROJECT_DIR$/app/modules/backend/views/share/main-header.phtml" />
-        <option value="$PROJECT_DIR$/app/modules/frontend/controllers/ShopController.php" />
         <option value="$PROJECT_DIR$/app/modules/frontend/views/shop/detail.phtml" />
         <option value="$PROJECT_DIR$/app/modules/frontend/controllers/ControllerBase.php" />
-        <option value="$PROJECT_DIR$/app/modules/frontend/Module.php" />
         <option value="$PROJECT_DIR$/app/modules/frontend/views/share/product_category.phtml" />
-        <option value="$PROJECT_DIR$/app/modules/backend/views/product/new.phtml" />
         <option value="$PROJECT_DIR$/app/modules/frontend/views/share/footer.phtml" />
         <option value="$PROJECT_DIR$/app/modules/frontend/views/share/search-box.phtml" />
         <option value="$PROJECT_DIR$/app/modules/frontend/views/share/cart.phtml" />
+        <option value="$PROJECT_DIR$/app/modules/frontend/views/index/index.phtml" />
+        <option value="$PROJECT_DIR$/app/bootstrap_web.php" />
+        <option value="$PROJECT_DIR$/app/modules/backend/Module.php" />
+        <option value="$PROJECT_DIR$/app/modules/backend/views/product/edit.phtml" />
+        <option value="$PROJECT_DIR$/app/common/ParamsConst/Params.php" />
+        <option value="$PROJECT_DIR$/app/modules/modeldb/models/Product.php" />
+        <option value="$PROJECT_DIR$/app/modules/backend/controllers/ProductCategoryController.php" />
+        <option value="$PROJECT_DIR$/app/modules/backend/views/product/new.phtml" />
+        <option value="$PROJECT_DIR$/app/modules/backend/controllers/ProductController.php" />
+        <option value="$PROJECT_DIR$/app/modules/frontend/Module.php" />
+        <option value="$PROJECT_DIR$/app/modules/backend/views/product/index.phtml" />
         <option value="$PROJECT_DIR$/app/modules/frontend/views/index.phtml" />
         <option value="$PROJECT_DIR$/app/modules/frontend/views/share/header.phtml" />
-        <option value="$PROJECT_DIR$/app/modules/frontend/views/index/index.phtml" />
-        <option value="$PROJECT_DIR$/app/modules/frontend/views/share/navigation.phtml" />
         <option value="$PROJECT_DIR$/app/modules/frontend/views/share/category.phtml" />
+        <option value="$PROJECT_DIR$/app/config/services_web.php" />
+        <option value="$PROJECT_DIR$/app/modules/frontend/controllers/ShopController.php" />
+        <option value="$PROJECT_DIR$/app/modules/frontend/views/share/navigation.phtml" />
         <option value="$PROJECT_DIR$/app/modules/frontend/views/shop/index.phtml" />
       </list>
     </option>
@@ -748,7 +641,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -764,6 +656,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="webxucxich" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webxucxich" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webxucxich" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -810,6 +716,14 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modeldb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -943,11 +857,103 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webxucxich" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webxucxich" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webxucxich" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webxucxich" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webxucxich" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webxucxich" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webxucxich" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webxucxich" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
+              <option name="myItemId" value="product" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -969,7 +975,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cli" />
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -987,20 +997,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cli" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tasks" />
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1011,12 +1014,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\wamp\www\webxucxich\app" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wamp\www\webxucxich\app\modules" />
       <recent name="D:\wamp\www\webxucxich\public\img\theme" />
       <recent name="D:\wamp\www\webxucxich\public\js\client" />
       <recent name="D:\wamp\www\webxucxich\public\css\client" />
       <recent name="D:\wamp\www\webxucxich\public\Assets\plugins" />
-      <recent name="D:\wamp\www\webxucxich\public\Assets" />
     </key>
   </component>
   <component name="RunManager">
@@ -1079,7 +1085,13 @@
       <option name="project" value="LOCAL" />
       <updated>1474475610464</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add ckfinder, ckeditor">
+      <created>1475989202983</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1475989202983</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1095,11 +1107,11 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19402985" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48928973" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20895523" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48862407" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1112,7 +1124,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40195015" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38353196" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1154,343 +1166,19 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="65" />
+      <option name="time" value="92" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="index.php">
-        <watch expression="$item['id']" />
+        <watch expression="$data[&quot;limitproduct&quot;]" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/modules/modeldb/models/Product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-28.838709">
-          <caret line="182" column="34" selection-start-line="182" selection-start-column="27" selection-end-line="182" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/modeldb/models/Tag.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.13365735">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/common/library/UtilsSEO.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/common/ParamsConst/Params.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18712029">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/backend/views/share/main-sidebar.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0692588">
-          <caret line="40" column="89" selection-start-line="40" selection-start-column="89" selection-end-line="40" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/backend/views/share/control-sidebar.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.32077765">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/backend/views/share/main-header.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="50.80645">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/backend/controllers/ProductCategoryController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.454435">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/frontend/controllers/ShopController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37424058">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/backend/Module.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5078979">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/backend/controllers/ProductController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7741935">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/backend/views/productcategory/new.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5565006">
-          <caret line="92" column="22" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/Assets/ckfinder/ckfinder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/Assets/ckfinder/ckfinder_v1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/Assets/ckfinder/core/ckfinder_php5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3256378">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/Assets/ckfinder/core/connector/php/connector.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1385176">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/backend/views/productcategory/index.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="54" column="44" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/backend/views/index.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="85" selection-start-line="52" selection-start-column="85" selection-end-line="52" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/backend/views/product/edit.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/frontend/Module.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.115385">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/bootstrap_cli.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="27.461538">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/bootstrap_web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.653847">
-          <caret line="53" column="7" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/services_web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="8.384615">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/loader.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/services.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="9.038462">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/Assets/ckfinder/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.265625">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/Assets/ckfinder/ckfinder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="16058" selection-start-line="5" selection-start-column="16058" selection-end-line="5" selection-end-column="16058" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/Assets/ckfinder/ckfinder.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7942529">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/Assets/ckfinder/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/client/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/client/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/client/global.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/share/footer.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8472222">
-          <caret line="92" column="6" selection-start-line="92" selection-start-column="6" selection-end-line="92" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/share/search-box.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.662037">
-          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/share/cart.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/index/index.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/index.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="181" column="0" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/share/header.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-46.129032">
-          <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/frontend/controllers/IndexController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.935484">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/backend/views/product/new.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1273148">
-          <caret line="181" column="1" selection-start-line="181" selection-start-column="1" selection-end-line="181" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/frontend/controllers/ControllerBase.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.5161295">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/shop/detail.phtml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17824075">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/share/category.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0439814">
-          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/share/navigation.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3125">
-          <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1498,14 +1186,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/shop/index.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.548388">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1527,6 +1207,335 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bootstrap_cli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050925925">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/faker/Faker/ORM/Spot/Populator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.225806">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/faker/Faker/ORM/Spot/EntityPopulator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/faker/Faker/ORM/Spot/ColumnTypeGuesser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/faker/Faker/ORM/Propel/Populator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/faker/Faker/ORM/Propel/EntityPopulator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/faker/Faker/ORM/Propel/ColumnTypeGuesser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/faker/Faker/ORM/CakePHP/Populator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/faker/Faker/ORM/CakePHP/EntityPopulator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/faker/Faker/ORM/CakePHP/ColumnTypeGuesser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/faker/Faker/ORM/Propel2/Populator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12716763">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/index/index.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8472222">
+          <caret line="701" column="0" selection-start-line="701" selection-start-column="0" selection-end-line="701" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/faker/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.096774">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/faker/Faker/ValidGenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/faker/Faker/DefaultGenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/faker/Faker/Generator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/faker/Faker/Factory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/common/library/UtilsSEO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22916667">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34450868">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/modeldb/models/ProductCategory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45086706">
+          <caret line="93" column="27" selection-start-line="93" selection-start-column="27" selection-end-line="93" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/backend/controllers/ProductCategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.67742">
+          <caret line="39" column="40" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/backend/views/product/new.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.6296296">
+          <caret line="126" column="27" selection-start-line="126" selection-start-column="27" selection-end-line="126" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/frontend/controllers/ControllerBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/common/ParamsConst/Params.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22916667">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/frontend/controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/frontend/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="75" selection-start-line="24" selection-start-column="75" selection-end-line="24" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/backend/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/services_cli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/backend/views/product/edit.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.755787">
+          <caret line="130" column="29" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/index.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.568287">
+          <caret line="200" column="24" selection-start-line="200" selection-start-column="24" selection-end-line="200" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/share/header.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43832335">
+          <caret line="52" column="80" selection-start-line="52" selection-start-column="80" selection-end-line="52" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/backend/controllers/ProductController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3310185">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/backend/views/product/index.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8310185">
+          <caret line="57" column="113" selection-start-line="57" selection-start-column="60" selection-end-line="57" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/services_web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.354838">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bootstrap_web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7708333">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/modeldb/models/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="190" column="27" selection-start-line="190" selection-start-column="27" selection-end-line="190" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/share/category.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/frontend/controllers/ShopController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#141#187#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/share/navigation.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="51" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/frontend/views/shop/index.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2986111">
+          <caret line="62" column="49" selection-start-line="62" selection-start-column="49" selection-end-line="62" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,5 +1,6 @@
 <?php
 namespace Webxucxich\Modules\Modeldb\Models;
+use Webxucxich\Common\ParamsConst\Params;
 class Product extends \Phalcon\Mvc\Model
 {
 
@@ -187,9 +188,20 @@ class Product extends \Phalcon\Mvc\Model
         return $queryBuilder->getQuery()->execute();
     }
 
+    public static function findAllPaging($keyword = "", $is_show = null, $id_product_category = "",$page = "", $limit="")
+    {
+        $queryBuilder = new \Phalcon\Mvc\Model\Query\Builder(self::buildparams($keyword, $is_show, $id_product_category));
+        $paginator = new \Phalcon\Paginator\Adapter\QueryBuilder(array(
+            "builder" => $queryBuilder,
+            "limit" => (int)$limit,
+            "page" => (int)$page
+        ));
+        return $paginator->getPaginate();
+    }
+
     private static function buildparams($keyword = '', $is_show = null, $id_product_category = "", $slug = "")
     {
-        $conditions = 'is_del = false';
+        $conditions = 'is_del = '. Params::ParamFalse;
         if ($keyword != '')
             $conditions = $conditions . " and name like '%$keyword%'";
         if ($is_show != null)
@@ -202,6 +214,7 @@ class Product extends \Phalcon\Mvc\Model
             'models' => array('Webxucxich\Modules\Modeldb\Models\Product'),
             'conditions' => $conditions,
             'order' => 'name'
+            //'limit' => '100'
         );
     }
 

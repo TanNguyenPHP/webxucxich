@@ -3,6 +3,7 @@ namespace Webxucxich\Modules\Backend\Controllers;
 
 use Webxucxich\Modules\Modeldb\Models\ProductCategory;
 use Webxucxich\Common\Library\UtilsSEO;
+use Webxucxich\Common\ParamsConst\Params;
 
 class ProductCategoryController extends ControllerBase
 {
@@ -33,8 +34,8 @@ class ProductCategoryController extends ControllerBase
         $productcategory->description_seo = $this->request->getPost("description_seo");
         $productcategory->pid = $this->request->getPost("pid");
         $productcategory->slug = UtilsSEO::CreateSlug($productcategory->name);
-        $productcategory->is_show = true;
-        $productcategory->is_home = true;
+        $productcategory->is_show = Params::ParamTrue;
+        $productcategory->is_home = Params::ParamTrue;
 
         if (!$productcategory->save()) {
             foreach ($productcategory->getMessages() as $message) {

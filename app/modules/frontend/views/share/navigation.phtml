@@ -9,7 +9,7 @@
                 <li><a href="#">Home</a></li>
 
                 <li class="simple-list">
-                    <a href="shop.html">Products</a><i class="fa fa-chevron-down"></i>
+                    <a href="/shop">Products</a><i class="fa fa-chevron-down"></i>
                     <div class="submenu">
                         <ul class="simple-menu-list-column">
                             <?php showCategories($datamain['categories']);?>
@@ -48,7 +48,7 @@ function showCategories($categories, $parent_id = 0, $char = '')
     foreach ($categories as $key => $item) {
         // Nếu là chuyên mục con thì hiển thị
         if ($item['pid'] == $parent_id) {
-            echo '<li><a href="#">' . $char . '<i class="fa fa-angle-right"></i>' . $item['name']. '</a></li>';
+            echo '<li><a href="/shop/'. $item['slug'] .'">' . $char . '<i class="fa fa-angle-right"></i>' . $item['name']. '</a></li>';
             // Xóa chuyên mục đã lặp
             unset($categories[$key]);
             // Tiếp tục đệ quy để tìm chuyên mục con của chuyên mục đang lặp

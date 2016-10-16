@@ -16,7 +16,15 @@ $di->setShared('router', function () {
 
     $router->setDefaultModule('frontend');
     $router->setDefaultNamespace('Webxucxich\Modules\Frontend\Controllers');
-
+    $router->add(
+        "/shop/:params",
+        array(
+            'module' => 'frontend',
+            'controller' => 'shop',
+            'action' => 'index',
+            'params' => 1
+        )
+    );
     return $router;
 });
 

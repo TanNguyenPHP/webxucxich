@@ -2,18 +2,18 @@
     <div class="information-blocks categories-border-wrapper">
         <div class="block-title size-3">Tất cả danh mục</div>
         <div class="accordeon">
-            <?php foreach($datamain['categories'] as $key => $item ): ?>
-                <?php if ($item['pid']== 0):?>
-                    <div class="accordeon-title"><?php echo $item['name']?></div>
+            <?php foreach ($datamain['categories'] as $key => $item): ?>
+                <?php if ($item['pid'] == 0): ?>
+                    <div class="accordeon-title"><?php echo $item['name'] ?></div>
                     <div class="accordeon-entry">
                         <div class="article-container style-1">
                             <ul>
-                                <?php showCategoriesShop($datamain['categories'],$item['id'])?>
+                                <?php showCategoriesShop($datamain['categories'], $item['id']) ?>
                             </ul>
                         </div>
                     </div>
-                <?php endif;?>
-            <?php endforeach;?>
+                <?php endif; ?>
+            <?php endforeach; ?>
 
         </div>
     </div>
@@ -51,7 +51,7 @@ function showCategoriesShop($categories, $parent_id = 0, $char = '')
     foreach ($categories as $key => $item) {
         // Nếu là chuyên mục con thì hiển thị
         if ($item['pid'] == $parent_id) {
-            echo '<li>'.$char.'<a href="#">' . $item['name'] . '</a></li>';
+            echo '<li>' . $char . '<a href="/shop/' . $item['slug'] . '">' . $item['name'] . '</a></li>';
             // Xóa chuyên mục đã lặp
             unset($categories[$key]);
             // Tiếp tục đệ quy để tìm chuyên mục con của chuyên mục đang lặp
@@ -59,4 +59,5 @@ function showCategoriesShop($categories, $parent_id = 0, $char = '')
         }
     }
 }
+
 ?>

@@ -208,7 +208,7 @@ function showCategories($categories, $id_category_product, $parent_id = 0, $char
             unset($categories[$key]);
 
             // Tiếp tục đệ quy để tìm chuyên mục con của chuyên mục đang lặp
-            showCategories($categories, $item['id'], $char . $item['name'] . ' >>>> ');
+            showCategories($categories,$id_category_product ,$item['id'], $char . $item['name'] . ' >>>> ');
         }
     }
 }
